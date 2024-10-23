@@ -1,0 +1,9 @@
+# The website is more or less in place, so the next step is deployment.  
+The HTTPS Request-Response cycle is as follows:  
+  
+\> Sending: First, your user makes a request for a particular web page on your web app. They can do this, for example, by typing a URL into their browser.  
+\> Receiving: This request gets received by the web server that hosts your website.  
+\> Matching: Your web server now uses a program to match the user’s request to a particular portion of your Python script.  
+\> Running: The appropriate Python code is called up by that program. When your code runs, it writes out a web page as a response.  
+\> Delivering: The program then delivers this response back to your user through the web server.  
+\> Viewing: Finally, the user can view the web server’s response. For example, the resulting web page can be displayed in a browser.  
