@@ -4,10 +4,10 @@ The motivation is that I had a fun idea, and it would be nice to learn how to cr
 The work started around July '25, and I have decided to put it on Git.
 
 Progress:
-\> Basic website has been built,
+\> Basic website has been built 
 \> html structure is created, with parent and child templates
 \> styles.css file now exists to provide simple control over appearance
-\> Multiple pages exist, with links and navigation 
+\> Multiple pages exist, with links and navigation
 
 Next Steps:
 > Deploy to server
